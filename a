@@ -1,0 +1,35 @@
+[33mcommit d2e6f3c1b4555f682b34b552e2c2284a1a90ee20[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Janusz Śnieg <janusz.snieg89@gmail.com>
+Date:   Thu Mar 14 22:03:44 2019 +0100
+
+    added user authentication
+
+[33mcommit abcd5d4be5bc69214f103f9f323df637c1a8b249[m
+Author: Janusz Śnieg <janusz.snieg89@gmail.com>
+Date:   Thu Mar 14 13:23:00 2019 +0100
+
+    adding moar redux
+
+[33mcommit 17adaa3937a98a395aeb47febc61f986f37342d8[m
+Author: Janusz Śnieg <janusz.snieg89@gmail.com>
+Date:   Tue Mar 12 13:08:52 2019 +0100
+
+    finishing forms and validation
+
+[33mcommit bbdeaeb25f10984088c5b565b11eb5a00f5d6627[m
+Author: Janusz Śnieg <janusz.snieg89@gmail.com>
+Date:   Tue Mar 12 13:04:53 2019 +0100
+
+    validation + disabling button
+
+[33mcommit 7246c88e259c1e51c3ddf1519cb251d8950d9ab7[m
+Author: Janusz Śnieg <janusz.snieg89@gmail.com>
+Date:   Tue Mar 12 12:29:08 2019 +0100
+
+    form addition and fix
+
+[33mcommit d524a18b02b38a70a8a1c9439657b3bfd5c077b0[m
+Author: Janusz Śnieg <janusz.snieg89@gmail.com>
+Date:   Tue Mar 12 12:25:50 2019 +0100
+
+    Initial commit
