@@ -1,6 +1,8 @@
-### Address
+### Address and general info
 
 https://burger-57229.firebaseapp.com/
+
+App created during online React course (by Max Schwarzmuller) that allows you to create and order a burger. Also contains sign in/ sign up page. After logging in you can see your order history.
 
 ### Author info
 
