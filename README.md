@@ -6,7 +6,7 @@ App created during online React course (by Max Schwarzmuller) that allows you to
 
 ### Author info
 
-Project created by Maixmilian Schwarzmuller during React course and re-created by Tomasz Felczak.
+Project re-created by Tomasz Felczak during a online React course (by Max Schwarzmuller).
 
 ### Installing
 
